@@ -1,5 +1,5 @@
 # aws-s3-memory-leak
-Example of AWS S3 Upload memory leak
+Example of AWS S3 Upload memory leak, related to this [issue](https://github.com/aws/aws-sdk-js-v3/issues/1897)
 
 **Describe the bug**
 
