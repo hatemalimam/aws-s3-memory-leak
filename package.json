@@ -1,0 +1,14 @@
+{
+  "name": "aws-s3-memory-leak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hatemalimam/aws-s3-memory-leak.git",
+  "author": "Hatem Alimam <me@hatemalimam.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.2.0"
+  }
+}
