@@ -2,10 +2,12 @@
 Example of AWS S3 Upload memory leak
 
 **Describe the bug**
+
 There's an apparent leak of memory when a file gets uploaded to S3, the rss memory keeps growing and never gets garbage collected.
 
 **SDK version number**
 3.2.0
+
 **Is the issue in the browser/Node.js/ReactNative?**
 Node.js
 
